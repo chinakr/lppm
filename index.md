@@ -7,6 +7,7 @@
 * [JavaScript编程](03.md)
 
 * [Python编程](04.md)
+    + [Python学习资源](04-01.md)
 
 * [Go编程](05.md)
 
